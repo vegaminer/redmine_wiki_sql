@@ -1,6 +1,6 @@
 require 'redmine'
 require 'open-uri'
-require 'issue'
+#require 'issue'
 
 Redmine::Plugin.register :redmine_wiki_sql do
   name 'Redmine Wiki SQL'
